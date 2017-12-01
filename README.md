@@ -1,4 +1,4 @@
-# Code of Contrastive Learning for Image Captioning
+# Code of [Contrastive Learning for Image Captioning](https://arxiv.org/abs/1710.02534)
 
 Based on [Neuraltalk2](https://github.com/karpathy/neuraltalk2) and [AdaptiveAttention](https://github.com/jiasenlu/AdaptiveAttention). Special thanks to the authors!
 
