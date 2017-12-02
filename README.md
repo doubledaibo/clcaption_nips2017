@@ -6,7 +6,7 @@ Testing codes and related codes will be added gradually.
 
 When training using contrastive learning, better pre-train both the target and the reference.
 
-## Briefy Explanation 
+## Brief Explanation 
 
 - adaptive attention: model structure for adaptive attention
 - neuraltalk2: model structure for neuraltalk2
